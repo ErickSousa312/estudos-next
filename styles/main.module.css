@@ -1,0 +1,19 @@
+
+  
+  .main {
+    max-width: 800px;
+    height: 100%;
+    margin: 0 auto;
+    overflow-y: auto;
+  }
+  
+  .sidebar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 200px;
+    height: 100%;
+    background-color: #eee;
+    overflow-y: auto;
+  }
+  
